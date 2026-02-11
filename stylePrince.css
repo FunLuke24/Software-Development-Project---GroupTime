@@ -1,0 +1,33 @@
+
+
+
+     
+      .box{
+        background-color: burlywood;
+        width: 750px;
+        height:750px;
+        padding: 50px;
+        margin: 20px;
+
+      }
+
+        .box2{
+            background-color: black;
+            width: 200px;
+            height: 200px;
+            padding: 50px;
+            margin: 20px;
+    
+        }
+
+        .popup {
+            display: none;
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background-color: white;
+            padding: 20px;
+            border: 2px solid black;
+        }
+    
